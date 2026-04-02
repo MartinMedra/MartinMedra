@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Laravel;Building+end-to-end+web+applications;Clean+Code+%26+User-Centered+Design;%E2%9C%85+Available+for+immediate+hire!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Laravel;Building+end-to-end+web+applications;Clean+Code+%26+User-Centered+Design;%E2%9C%85+Available+for+immediate+hire!" />
 </div>
 
 <br/>
@@ -20,42 +20,35 @@
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
 <div align="center">
 <table>
 <tr>
 <td>
 
-**🚀 Full-Stack Developer** con foco en construir aplicaciones web completas, desde el diseño de la base de datos hasta el deploy en producción. Apasionado por el código limpio, la automatización de procesos y las soluciones que generan impacto real.
-
-```yaml
-name: Martin Medrano Marin
-role: Full-Stack Developer
-experience: 2+ años (SDLC completo)
-location: Cartagena de Indias, Colombia 🇨🇴
-language: Español (Nativo) · English (B2)
-
-focus:
-  - React / Next.js · Node.js · Laravel
-  - REST APIs · JWT / OAuth
-  - PostgreSQL · MySQL · Prisma ORM
-  - Docker · CI/CD · Vercel · Railway
-
-status: ✅ Disponible para trabajo inmediato
+```javascript
+const martin = {
+  role:        "Full-Stack Developer",
+  experience:  "2+ años en el ciclo completo (SDLC)",
+  education:   "Ingeniería de Sistemas — Último Semestre 🎓",
+  location:    "Cartagena de Indias, Colombia 🇨🇴",
+  languages:   ["Español (Nativo)", "English (B2)"],
+  specialties: ["REST APIs", "JWT / OAuth", "Agile/Scrum"],
+  status:      "✅ Disponible para trabajo inmediato",
+};
 ```
 
-</td>
-<td width="320">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinMedra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" />
 </td>
 </tr>
 </table>
 </div>
 
+> 💡 *Full-Stack Developer construyendo aplicaciones web end-to-end con React, Next.js y Laravel. Me muevo con comodidad en todo el stack — desde el diseño de la DB hasta el deploy en producción.*
+
 ---
 
-## 🛠️ Tech Stack
+## `$ tech --stack`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark&perline=7" />
@@ -67,7 +60,7 @@ status: ✅ Disponible para trabajo inmediato
 
 ---
 
-## ⚡ Experiencia
+## `$ git log --experience`
 
 <div align="center">
 <table>
@@ -81,7 +74,7 @@ status: ✅ Disponible para trabajo inmediato
 + Reduje el tiempo de tramitación de ~5 días a < 24 horas
 + Base de +300 estudiantes y 40 empresas vinculadas
 + Arquitecté el stack completo: Laravel · PostgreSQL · GitLab + SSH
-+ Incorporé 2 nuevos devs al proyecto definiendo estándares MVC
++ Incorporé 2 nuevos devs definiendo estándares MVC desde cero
 + Automaticé 6 flujos manuales de seguimiento entre roles
 + Coordiné equipo multidisciplinario de 8 personas
 ```
@@ -93,18 +86,12 @@ status: ✅ Disponible para trabajo inmediato
 
 ---
 
-## 🏆 Proyectos Destacados
-
-<div align="center">
-
-### 🚀 Soluciones que Generan Impacto Real
-
-</div>
+## `$ ls ./projects`
 
 <div align="center">
 <table>
 <tr>
-<td width="100%" valign="top">
+<td valign="top">
 
 <div align="center">
 
@@ -119,9 +106,7 @@ status: ✅ Disponible para trabajo inmediato
 </div>
 
 **🎯 Descripción:**
-Sistema web institucional que conecta estudiantes, tutores, empresas y administradores en un flujo unificado de gestión de prácticas académicas.
-
-**⚡ Resultados medibles:**
+Sistema web institucional que unifica estudiantes, tutores, empresas y admins en un solo flujo de gestión de prácticas.
 
 | Métrica | Antes | Después |
 |---|---|---|
@@ -129,12 +114,6 @@ Sistema web institucional que conecta estudiantes, tutores, empresas y administr
 | 👥 Usuarios activos | — | 300+ |
 | 🏢 Empresas vinculadas | — | 40+ |
 | 🔁 Flujos automatizados | 0 | 6 |
-
-**🔑 Características clave:**
-- 🔐 Autenticación por roles (Estudiante / Tutor / Empresa / Admin)
-- 🔄 Automatización de flujos de aprobación
-- 📊 Panel de seguimiento en tiempo real
-- 🗑️ Eliminación total de hojas de cálculo dispersas
 
 <div align="center">
 
@@ -158,43 +137,29 @@ Sistema web institucional que conecta estudiantes, tutores, empresas y administr
 
 ---
 
-## 📊 GitHub Analytics
+## `$ git stats --global`
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MartinMedra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMedra&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" />
-</td>
-</tr>
-</table>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinMedra&theme=github-dark-blue&hide_border=true" width="100%" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinMedra&theme=github-dark-blue&hide_border=true" width="100%" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MartinMedra&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=MartinMedra&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4" />
 </div>
 
 ---
 
-## 🎓 Educación & Certificaciones
+## `$ cat education.txt`
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Formación Académica
+### 🎓 Formación Académica
 
 | Período | Título |
 |---|---|
-| 2024 — Actualidad | 🎓 Ing. de Sistemas *(Último Semestre)* |
+| 2024 — Actualidad | Ing. de Sistemas *(Último Semestre)* |
 | 2021 — 2024 | ✅ Tecnólogo en Desarrollo de Software |
 
 📍 Fundación Universitaria Tecnológico Comfenalco
@@ -218,11 +183,11 @@ Sistema web institucional que conecta estudiantes, tutores, empresas y administr
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## `$ ping martin --connect`
 
 <div align="center">
 
-### 💼 Professional Networking
+### 🤝 Let's Connect & Collaborate
 
 *¿Tienes un proyecto interesante, una oportunidad o simplemente quieres hablar de tecnología?*
 **Las mejores ideas nacen de las mejores conversaciones. No dudes en escribirme 🚀**
@@ -239,21 +204,17 @@ Sistema web institucional que conecta estudiantes, tutores, empresas y administr
   </a>
 </p>
 
-</div>
+<br/>
 
-### 📍 Current Availability
-
-<div align="center">
   <img src="https://img.shields.io/badge/Status-Disponible_Inmediatamente-00D26A?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Remote_Work-Preferred-38bdf8?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Full_Time-Open_to_Offers-FF6B6B?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Zona_Horaria-Colombia_(GMT--5)-00D26A?style=for-the-badge&labelColor=0f172a" />
-</div>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinMedra/MartinMedra/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/MartinMedra/MartinMedra/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
