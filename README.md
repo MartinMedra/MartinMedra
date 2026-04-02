@@ -143,8 +143,6 @@ Sistema web institucional que unifica estudiantes, tutores, empresas y admins en
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinMedra&theme=github-dark-blue&hide_border=true" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MartinMedra&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4" />
-</div>
 
 ---
 
