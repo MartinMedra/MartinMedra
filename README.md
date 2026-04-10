@@ -194,7 +194,7 @@ Sistema web institucional que unifica estudiantes, tutores, empresas y admins en
   <a href="https://linkedin.com/in/martin-medrano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:martin.eduardo.mm@hotmail.com">
+  <a href="mailto:martinmedranom17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MartinMedra" target="_blank">
