@@ -169,6 +169,7 @@ Sistema web institucional que unifica estudiantes, tutores, empresas y admins en
 
 | Certificación | Plataforma |
 |---|---|
+| 📶 Power BI Fundamentals | Santander Open Academy |
 | 🤖 Bootcamp AI & DATA — ML, IA aplicada | Future Tales |
 | 🌐 FrontEnd Web Developer | Udemy |
 | 🐍 Python — Cero a Experto (+114 hrs) | Udemy |
