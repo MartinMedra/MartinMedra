@@ -158,7 +158,7 @@ Sistema web institucional que unifica estudiantes, tutores, empresas y admins en
 | Período | Título |
 |---|---|
 | 2024 — Actualidad | Ing. de Sistemas *(Último Semestre)* |
-| 2021 — 2024 | ✅ Tecnólogo en Desarrollo de Software |
+| 2024 | ✅ Tecnólogo en Desarrollo de Software |
 
 📍 Fundación Universitaria Tecnológico Comfenalco
 
